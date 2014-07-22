@@ -1,0 +1,69 @@
+/*
+Theme Name: CardeoPress
+Theme URI: http://cardeo.ca
+Description: Starter theme with Bootstrap integration
+Author: Matt Lambert
+Author URI: http://mattlambert.ca
+Version: 1.0
+Tags: matt, lambert, minimal, flat, ebook, book, css, front, end, development, twitter, bootstrap
+
+License: The MIT License
+
+General comments:
+For support please hit me up on twitter @cardeo
+Copyright: (c) 2014 Matt Lambert
+*/
+
+/*******************************************************
+CONTENTS
+
+01. BASE
+02. LAYOUT
+03. MODULES
+04. STATE
+
+This style sheet organization is based on the SMACCS 
+system. Please visit the following website for more info:
+http://smacss.com/
+*******************************************************/
+
+/*******************************************************
+BASE
+*******************************************************/
+
+/*******************************************************
+LAYOUT
+*******************************************************/
+
+footer {
+  margin-bottom: 80px;
+  margin-top: 40px;
+}
+
+/*******************************************************
+MODULE
+*******************************************************/
+
+.post {
+  margin-bottom: 40px;
+}
+
+.postTitle {
+}
+
+.postMeta {
+}
+
+.postBody {
+}
+
+ul.unstyled {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+
+/*******************************************************
+STATE
+*******************************************************/
