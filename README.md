@@ -7,6 +7,10 @@ This is a simple, bare-bones WordPress theme for users that want to get a simple
 
 Demo: http://cardeopress.cardeo.ca/
 
+## Further Resources
+
+If you find this theme useful, you might want to check out my book on Mastering Bootstrap theming at: http://mattlambert.ca/mastering-bootstrap it's the complete guide to creating Bootstrap themes.
+
 ## License
 
 The MIT License (MIT)
